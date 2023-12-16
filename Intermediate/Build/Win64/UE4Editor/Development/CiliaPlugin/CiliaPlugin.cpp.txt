@@ -1,0 +1,2 @@
+C:\Users\peter\Documents\Unreal Projects\pluginshell\Plugins\CiliaPlugin\Intermediate\Build\Win64\UE4Editor\Development\CiliaPlugin\Definitions.CiliaPlugin.h
+C:\Users\peter\Documents\Unreal Projects\pluginshell\Plugins\CiliaPlugin\Source\CiliaPlugin\Public\CiliaPlugin.h

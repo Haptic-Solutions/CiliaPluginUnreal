@@ -1,0 +1,35 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CiliaPlugin.cpp.obj": [
+			"BreathTriggerBox.cpp.obj",
+			"CiliaPlugin.cpp.obj",
+			"CiliaPluginBluePrint.cpp.obj",
+			"CrazyColorTriggerBox.cpp.obj",
+			"FanLinearTriggerBox.cpp.obj",
+			"FlickerTriggerBox.cpp.obj",
+			"MyClass.cpp.obj",
+			"RainbowTriggerBox.cpp.obj",
+			"RippleTriggerBox.cpp.obj",
+			"SetLightColorTriggerBox.cpp.obj",
+			"SmellAreaTriggerBox.cpp.obj",
+			"TCPIPClient.cpp.obj",
+			"VariableBrightnessTriggerBox.cpp.obj"
+		],
+		"Module.CiliaPlugin.gen.cpp.obj": [
+			"BreathTriggerBox.gen.cpp.obj",
+			"CiliaGroupsList.gen.cpp.obj",
+			"CiliaPlugin.init.gen.cpp.obj",
+			"CiliaPluginBluePrint.gen.cpp.obj",
+			"CrazyColorTriggerBox.gen.cpp.obj",
+			"FanLinearTriggerBox.gen.cpp.obj",
+			"FlickerTriggerBox.gen.cpp.obj",
+			"RainbowTriggerBox.gen.cpp.obj",
+			"RippleTriggerBox.gen.cpp.obj",
+			"SetLightColorTriggerBox.gen.cpp.obj",
+			"SmellAreaTriggerBox.gen.cpp.obj",
+			"SmellsList.gen.cpp.obj",
+			"VariableBrightnessTriggerBox.gen.cpp.obj"
+		]
+	}
+}

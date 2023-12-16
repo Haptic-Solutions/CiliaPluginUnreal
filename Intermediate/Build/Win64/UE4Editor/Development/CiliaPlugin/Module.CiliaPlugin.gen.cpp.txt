@@ -1,0 +1,134 @@
+C:\Users\peter\Documents\Unreal Projects\pluginshell\Plugins\CiliaPlugin\Intermediate\Build\Win64\UE4Editor\Development\CiliaPlugin\Definitions.CiliaPlugin.h
+C:/Users/peter/Documents/Unreal Projects/pluginshell/Plugins/CiliaPlugin/Intermediate/Build/Win64/UE4Editor/Inc/CiliaPlugin/BreathTriggerBox.gen.cpp
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\peter\Documents\Unreal Projects\pluginshell\Plugins\CiliaPlugin\Source\CiliaPlugin/Public/BreathTriggerBox.h
+c:\users\peter\documents\unreal projects\pluginshell\plugins\ciliaplugin\source\ciliaplugin\public\CiliaPluginBluePrint.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\fstream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\thread
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\chrono
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\ratio
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\time.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xthrcommon.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xthread
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xtime
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xthreads.h
+c:\users\peter\documents\unreal projects\pluginshell\plugins\ciliaplugin\source\ciliaplugin\public\SmellsList.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\INCLUDE\unordered_map
+c:\users\peter\documents\unreal projects\pluginshell\plugins\ciliaplugin\source\ciliaplugin\public\CiliaGroupsList.h
+c:\users\peter\documents\unreal projects\pluginshell\plugins\ciliaplugin\source\ciliaplugin\public\PathOfCiliaPlugin.h
+c:\users\peter\documents\unreal projects\pluginshell\plugins\ciliaplugin\source\ciliaplugin\public\TCPIPClient.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Networking\Public\Networking.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Core.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\GenericPlatform/GenericPlatformNamedPipe.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\HAL/PlatformNamedPipe.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Windows/WindowsPlatformNamedPipe.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\GenericPlatform/GenericPlatformCriticalSection.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\HAL/PlatformFile.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Windows/WindowsPlatformFile.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\HAL/PlatformIncludes.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/MessageDialog.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\ProfilingDebugging/ScopedDebugInfo.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\ProfilingDebugging/ExternalProfiler.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/StringUtility.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Serialization/NameAsStringProxyArchive.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Containers/MRUArray.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Containers/TransArray.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Containers/ArrayBuilder.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/SingleThreadEvent.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\HAL/ThreadManager.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Containers/StaticBitArray.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Containers/MapBuilder.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\HAL/ThreadingBase.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Internationalization/TextLocalizationManagerGlobals.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Internationalization/Culture.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Logging/LogSuppressionInterface.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\HAL/OutputDevices.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Logging/LogScopedVerbosityOverride.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/OutputDeviceNull.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/OutputDeviceMemory.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/OutputDeviceFile.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/OutputDeviceDebug.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/OutputDeviceArchiveWrapper.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/OutputDeviceAnsiError.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/TimeGuard.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Serialization/LargeMemoryWriter.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Serialization/LargeMemoryData.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Serialization/LargeMemoryReader.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Serialization/BufferArchive.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Serialization/ArrayReader.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Serialization/ArrayWriter.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Serialization/BufferWriter.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/WildcardString.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Containers/CircularQueue.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/OutputDeviceHelper.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/ScopedSlowTask.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/CallbackDevice.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/LocalTimestampDirectoryVisitor.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\UObject/BlueprintsObjectVersion.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\UObject/BuildObjectVersion.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\UObject/CoreObjectVersion.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\UObject/EditorObjectVersion.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\UObject/FrameworkObjectVersion.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\UObject/MobileObjectVersion.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\UObject/NetworkingObjectVersion.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\UObject/OnlineObjectVersion.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\UObject/PlatformObjectVersion.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\UObject/SequencerObjectVersion.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\UObject/VRObjectVersion.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/OutputDeviceConsole.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\core\public\Misc/MonitoredProcess.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Sockets\Public\Sockets.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Sockets\Public\SocketSubsystem.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\sockets\public\AddressInfoTypes.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\networking\public\Interfaces/IPv4/IPv4SubnetMask.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\networking\public\Interfaces/IPv4/IPv4Address.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\networking\public\Interfaces/IPv4/IPv4Endpoint.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\networking\public\Interfaces/IPv4/IPv4Subnet.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\networking\public\Interfaces/Steam/SteamEndpoint.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\networking\public\Interfaces/INetworkingModule.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\networking\public\Common/TcpSocketBuilder.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\networking\public\Common/TcpListener.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\networking\public\Common/UdpSocketReceiver.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\networking\public\Common/UdpSocketSender.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\networking\public\Common/UdpSocketBuilder.h
+c:\users\peter\documents\unreal projects\pluginshell\plugins\ciliaplugin\intermediate\build\win64\ue4editor\inc\ciliaplugin\CiliaPluginBluePrint.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/TriggerBox.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/TriggerBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerBase.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerBox.generated.h
+c:\users\peter\documents\unreal projects\pluginshell\plugins\ciliaplugin\intermediate\build\win64\ue4editor\inc\ciliaplugin\BreathTriggerBox.generated.h
+C:/Users/peter/Documents/Unreal Projects/pluginshell/Plugins/CiliaPlugin/Intermediate/Build/Win64/UE4Editor/Inc/CiliaPlugin/CiliaGroupsList.gen.cpp
+C:/Users/peter/Documents/Unreal Projects/pluginshell/Plugins/CiliaPlugin/Intermediate/Build/Win64/UE4Editor/Inc/CiliaPlugin/CiliaPlugin.init.gen.cpp
+C:/Users/peter/Documents/Unreal Projects/pluginshell/Plugins/CiliaPlugin/Intermediate/Build/Win64/UE4Editor/Inc/CiliaPlugin/CiliaPluginBluePrint.gen.cpp
+C:/Users/peter/Documents/Unreal Projects/pluginshell/Plugins/CiliaPlugin/Intermediate/Build/Win64/UE4Editor/Inc/CiliaPlugin/CrazyColorTriggerBox.gen.cpp
+C:\Users\peter\Documents\Unreal Projects\pluginshell\Plugins\CiliaPlugin\Source\CiliaPlugin/Public/CrazyColorTriggerBox.h
+c:\users\peter\documents\unreal projects\pluginshell\plugins\ciliaplugin\intermediate\build\win64\ue4editor\inc\ciliaplugin\CrazyColorTriggerBox.generated.h
+C:/Users/peter/Documents/Unreal Projects/pluginshell/Plugins/CiliaPlugin/Intermediate/Build/Win64/UE4Editor/Inc/CiliaPlugin/FanLinearTriggerBox.gen.cpp
+C:\Users\peter\Documents\Unreal Projects\pluginshell\Plugins\CiliaPlugin\Source\CiliaPlugin/Public/FanLinearTriggerBox.h
+c:\users\peter\documents\unreal projects\pluginshell\plugins\ciliaplugin\intermediate\build\win64\ue4editor\inc\ciliaplugin\FanLinearTriggerBox.generated.h
+C:/Users/peter/Documents/Unreal Projects/pluginshell/Plugins/CiliaPlugin/Intermediate/Build/Win64/UE4Editor/Inc/CiliaPlugin/FlickerTriggerBox.gen.cpp
+C:\Users\peter\Documents\Unreal Projects\pluginshell\Plugins\CiliaPlugin\Source\CiliaPlugin/Public/FlickerTriggerBox.h
+c:\users\peter\documents\unreal projects\pluginshell\plugins\ciliaplugin\intermediate\build\win64\ue4editor\inc\ciliaplugin\FlickerTriggerBox.generated.h
+C:/Users/peter/Documents/Unreal Projects/pluginshell/Plugins/CiliaPlugin/Intermediate/Build/Win64/UE4Editor/Inc/CiliaPlugin/RainbowTriggerBox.gen.cpp
+C:\Users\peter\Documents\Unreal Projects\pluginshell\Plugins\CiliaPlugin\Source\CiliaPlugin/Public/RainbowTriggerBox.h
+c:\users\peter\documents\unreal projects\pluginshell\plugins\ciliaplugin\intermediate\build\win64\ue4editor\inc\ciliaplugin\RainbowTriggerBox.generated.h
+C:/Users/peter/Documents/Unreal Projects/pluginshell/Plugins/CiliaPlugin/Intermediate/Build/Win64/UE4Editor/Inc/CiliaPlugin/RippleTriggerBox.gen.cpp
+C:\Users\peter\Documents\Unreal Projects\pluginshell\Plugins\CiliaPlugin\Source\CiliaPlugin/Public/RippleTriggerBox.h
+c:\users\peter\documents\unreal projects\pluginshell\plugins\ciliaplugin\intermediate\build\win64\ue4editor\inc\ciliaplugin\RippleTriggerBox.generated.h
+C:/Users/peter/Documents/Unreal Projects/pluginshell/Plugins/CiliaPlugin/Intermediate/Build/Win64/UE4Editor/Inc/CiliaPlugin/SetLightColorTriggerBox.gen.cpp
+C:\Users\peter\Documents\Unreal Projects\pluginshell\Plugins\CiliaPlugin\Source\CiliaPlugin/Public/SetLightColorTriggerBox.h
+c:\users\peter\documents\unreal projects\pluginshell\plugins\ciliaplugin\intermediate\build\win64\ue4editor\inc\ciliaplugin\SetLightColorTriggerBox.generated.h
+C:/Users/peter/Documents/Unreal Projects/pluginshell/Plugins/CiliaPlugin/Intermediate/Build/Win64/UE4Editor/Inc/CiliaPlugin/SmellAreaTriggerBox.gen.cpp
+C:\Users\peter\Documents\Unreal Projects\pluginshell\Plugins\CiliaPlugin\Source\CiliaPlugin/Public/SmellAreaTriggerBox.h
+c:\users\peter\documents\unreal projects\pluginshell\plugins\ciliaplugin\intermediate\build\win64\ue4editor\inc\ciliaplugin\SmellAreaTriggerBox.generated.h
+C:/Users/peter/Documents/Unreal Projects/pluginshell/Plugins/CiliaPlugin/Intermediate/Build/Win64/UE4Editor/Inc/CiliaPlugin/SmellsList.gen.cpp
+C:/Users/peter/Documents/Unreal Projects/pluginshell/Plugins/CiliaPlugin/Intermediate/Build/Win64/UE4Editor/Inc/CiliaPlugin/VariableBrightnessTriggerBox.gen.cpp
+C:\Users\peter\Documents\Unreal Projects\pluginshell\Plugins\CiliaPlugin\Source\CiliaPlugin/Public/VariableBrightnessTriggerBox.h
+c:\users\peter\documents\unreal projects\pluginshell\plugins\ciliaplugin\intermediate\build\win64\ue4editor\inc\ciliaplugin\VariableBrightnessTriggerBox.generated.h

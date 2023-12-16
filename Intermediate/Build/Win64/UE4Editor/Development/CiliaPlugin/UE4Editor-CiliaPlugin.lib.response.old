@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CiliaPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\peter\Documents\Unreal Projects\pluginshell\Intermediate\Build\Win64\pluginshellEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\peter\Documents\Unreal Projects\pluginshell\Plugins\CiliaPlugin\Intermediate\Build\Win64\UE4Editor\Development\CiliaPlugin\CiliaPlugin.cpp.obj"
+"C:\Users\peter\Documents\Unreal Projects\pluginshell\Plugins\CiliaPlugin\Intermediate\Build\Win64\UE4Editor\Development\CiliaPlugin\Default.rc2.res"
+/OUT:"C:\Users\peter\Documents\Unreal Projects\pluginshell\Plugins\CiliaPlugin\Intermediate\Build\Win64\UE4Editor\Development\CiliaPlugin\UE4Editor-CiliaPlugin.lib"
+/INCLUDE:IMPLEMENT_MODULE_CiliaPlugin
